@@ -1,5 +1,6 @@
 # Programs for SPIM
 # ArraySum
+# By Jackthip Phureesatian & Sorapol Sroysuwan [ 5610500966 && 5610503990 ]
 # 25 Feb. 2015
 
 .data # data section
